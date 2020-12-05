@@ -1,2 +1,2 @@
 # Python_turtle
-this is simle task usong python turtle
+this is smala drawing task using python turtle
